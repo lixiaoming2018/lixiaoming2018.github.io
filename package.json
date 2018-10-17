@@ -1,0 +1,9 @@
+{
+  "name": "微金所",
+  "version": "1.0.0",
+  "dependencies": {
+    "art-template": "^4.13.1",
+    "bootstrap": "^3.3.7",
+    "jquery": "^1.12.4"
+  }
+}
